@@ -32,4 +32,4 @@ source .env
 ## LICENSE
 FeeFree Contracts is released under the [MIT License](LICENSE).
 
-Copyright ©2024 [FeeFree](https://github.com/FeeFreeFi)
+Copyright ©2024 [FeeFree](https://github.com/luckyspaceOK)
