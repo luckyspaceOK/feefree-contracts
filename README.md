@@ -1,4 +1,4 @@
-# FeeFree
+# Luckyspace
 To build a Robinhood-style DEX in the blockchain industry, enabling participation in DeFi for everyone worldwide!
 
 ## Usage
@@ -22,12 +22,8 @@ source .env
 [Openzeppelin/openzeppelin-contracts](https://github.com/Openzeppelin/openzeppelin-contracts)
 
 ## Socials
-- Twitter: [@FeeFreeFi](https://x.com/FeeFreeFi)
-- Email: [admin@feefree.fi](mailto://admin@feefree.fi)
-- Discord: [FeeFreeFi](https://discord.gg/5WSNamMknK)
-
-## FeeFree Links
-- Website: [app.feefree.fi](https://app.feefree.fi/)
+- Email: [luckyspace0723@gmail.com](mailto://luckyspace0723@gmail.com)
+- Discord: [Luckyspace](https://discord.gg/5WSNaoMknK)
 
 ## LICENSE
 FeeFree Contracts is released under the [MIT License](LICENSE).
