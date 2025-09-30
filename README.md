@@ -1,6 +1,8 @@
 # Luckyspace
 To build a Robinhood-style DEX in the blockchain industry, enabling participation in DeFi for everyone worldwide!
 
+<img width="1584" height="815" alt="image" src="https://github.com/user-attachments/assets/394cc371-f482-4725-9512-42e5d4738692" />
+
 ## Usage
 ```shell
 cp .env.example .env
